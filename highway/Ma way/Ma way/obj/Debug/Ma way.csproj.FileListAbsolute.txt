@@ -1,0 +1,17 @@
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\bin\Debug\Ma way.exe.config
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma way.csprojResolveAssemblyReference.cache
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Form1.resources
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Properties.Resources.resources
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma way.csproj.GenerateResource.Cache
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\bin\Debug\Ma way.exe
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\bin\Debug\Ma way.pdb
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma way.exe
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma way.pdb
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\bin\Debug\Хасбик.mdb
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Form2.resources
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Form3.resources
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Form5.resources
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Form4.resources
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Form6.resources
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Form9.resources
+C:\Users\laptop\Downloads\highway\Ma way\Ma way\obj\Debug\Ma_way.Form10.resources
